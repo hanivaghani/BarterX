@@ -94,3 +94,5 @@
 [2025-01-10T07:28:21.964Z] GET /about
 [2025-01-10T07:28:21.972Z] GET /styles.css
 [2025-01-10T07:28:21.974Z] GET /logo.png
+[2025-01-10T07:54:49.850Z] GET /api/products
+[2025-01-10T07:55:55.209Z] GET /api/products
